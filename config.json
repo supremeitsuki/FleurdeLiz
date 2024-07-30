@@ -1,0 +1,13 @@
+{
+    "port": "8000",
+    "name": "Fleur de Liz",
+    "description": "Flowers are mostly used as gifts to people; it creates a simple smile to anyone who receives it. Flowers are needed to be taken care of in order to blossom beautifully.",
+    "invite": "",
+    "support": "",
+    "pfp": "https://media.discordapp.net/attachments/949594676485300274/1267484847413399674/FDL_LOGO.png?ex=66a8f4c0&is=66a7a340&hm=6f5b8db4c04314ed74cff611e7b54e114342af0f7d60355fc3b25401d8823227&=&format=webp&quality=lossless&width=417&height=416",
+    "intro": "https://media.discordapp.net/attachments/949594676485300274/1184779283932119050/1702541915607.png?ex=658d36b1&is=657ac1b1&hm=d590337ef8a8ab1b59cdec3f31dad7fb1b242d684d378137593a1a30869c3d4d&=&format=webp&quality=lossless&width=630&height=630",
+    "feature1": "JavaScript",
+    "feature2": "HTML",
+    "feature3": "CSS",
+    "feature4": "Python"
+  }
